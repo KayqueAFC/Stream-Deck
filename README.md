@@ -63,6 +63,4 @@ void loop() {
 
 Vídeo que usei de referencia para meu projeto, feito pela JuliaLabs
 
-Link: https://www.youtube.com/watch?v=X_ZKeOIq-ek&t=600s
-
-
+Link: https://youtu.be/X_ZKeOIq-ek?is=OyblXzS_RyrFmjbt
