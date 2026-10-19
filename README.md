@@ -18,12 +18,15 @@ Pinagem do projeto
 ## Código do projeto
 
 Para rodar esse código tive uma dificuldade com a IDE do Arduino porque precisamos de uma biblioteca em especifico: Arduino-Pico (Earle F. Philhower III) para habilitar a opção Tools → USB Stack
-### Como instalar:
+
+### Antes de rodar o código:
 
 - Abra File → Preferences
 - Em Additional boards manager URLs, adicione este endereço: https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json
 - Clique em OK e abra novamente Tools → Board → Boards Manager.
 - Pesquise pico e procure Raspberry Pi Pico/RP2040/RP2350, de Earle F. Philhower, III. Clique em Install.
+
+### Código: 
 
 ```ccp
 #include <Keyboard.h>
