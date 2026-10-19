@@ -11,6 +11,7 @@ O projeto da case que usei é da Bianca Rene pois foi o unico que encontrei com 
 ## Digrama de Pinos
 
 Pinagem do projeto
+
 <img width="890" height="880" alt="Pinos" src="https://github.com/user-attachments/assets/861eed5e-2e96-4bce-8b03-422a07edbba3" />
 
 
